@@ -9,3 +9,6 @@
 
 ./front/node_modules/*
 ./front/node_modules/
+
+./backend/.gitignore
+./fron/.gitignore
